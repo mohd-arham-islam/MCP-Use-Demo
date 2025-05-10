@@ -1,5 +1,5 @@
 [project]
-name = "mcp-use-playwright"
+name = "mcp-use-demo"
 version = "0.1.0"
 description = "Creating a chatbot with browser automation capabilities"
 readme = "README.md"
